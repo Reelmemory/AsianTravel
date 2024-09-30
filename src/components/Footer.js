@@ -33,7 +33,7 @@ function Footer() {
             <a href='#home'  className="m-2">Airline</a>
           </List>
         </Mid>
-        <p className='copyRight'> @ 2018 - 2024 TravelGO, inc.</p>
+        <p className='copyRight'> @ 2018 - 2024 AsainTravel, inc.</p>
 
         <Right>
           <RightText>Discover Our App</RightText>
