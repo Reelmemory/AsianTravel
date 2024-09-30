@@ -8,7 +8,11 @@ const SignIn = () => {
             <Container>
                 <InnerContainer>
                     <LoginContainer>
+<<<<<<< HEAD
                         <Heading>Welcome back to <TitleName>Asian-Travel</TitleName></Heading>
+=======
+                        <Heading>Welcome back to <TitleName>AsianTravel</TitleName></Heading>
+>>>>>>> 6540bc60f8660bbcd3df29094771c90f8a12b86b
                         <EmailInput placeholder='Enter your email'/>
                         <PasswordInput placeholder='Enter your password'/>
                         <LoginButton>LOGIN</LoginButton>
